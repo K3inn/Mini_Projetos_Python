@@ -1,4 +1,3 @@
-Um repositorio simples, com intuito salvar meu projetos em python enquanto estudo a linguagem. Sendo assim outros estudantes podem baixar e
-ler os codigos, para auxiliar eles tambem.
+Um repositorio simples para salvar meu codigos em python, enquanto estudo a linguagem.
 
 -K3inn
